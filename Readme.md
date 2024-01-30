@@ -2,7 +2,7 @@
 
 * Студент: [Руслан Пеньков](https://up.htmlacademy.ru/htmlcss/39/user/2314593).
 * Наставник: [Ольга Тюлихова](https://htmlacademy.ru/profile/id523263).
-
+* сайт: [Мой проект Седона]( https://rus49-mag.github.io/2314593-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
